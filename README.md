@@ -14,3 +14,6 @@ Primeiro, foi criado o projeto Spring Boot, utilizando o Spring Initializr.
 Em seguida, criei algumas views, controllers e modelos, utilizando algumas anotações do Spring, como @Controller, @RequestMapping e @Entity.
 
 Por fim, criei uma classe DataConfiguration para configurar a conexão com o banco de dados. Nesse caso, utilizei um banco de dados diferente do tutorial: ao invés de adicionar ao pom.xml o conector do MySQL, adicionei o do MariaDB, já que era o banco de dados que já tinha instalado.
+
+## Questionário 16/12/21
+Aqui, criei o EventoRepository, e o utilizei para buscar uma lista de eventos. Também adicionei o Materialize CSS ao projeto, para facilitar a estilização. Apenas uma estilização muito básica foi feita, para testar a biblioteca.
