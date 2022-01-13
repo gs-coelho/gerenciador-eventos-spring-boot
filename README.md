@@ -17,3 +17,6 @@ Por fim, criei uma classe DataConfiguration para configurar a conexão com o ban
 
 ## Questionário 16/12/21
 Aqui, criei o EventoRepository, e o utilizei para buscar uma lista de eventos. Também adicionei o Materialize CSS ao projeto, para facilitar a estilização. Apenas uma estilização muito básica foi feita, para testar a biblioteca.
+
+## Questionário 06/01/22
+Nesta aula, utilizei um pouco mais o Materialize CSS para adicionar estilo para as páginas. Criei também uma página para visualizar os detalhes do evento. Por fim, criei uma entidade Convidado, que se relaciona com o Evento. Criei um pequeno formulário para adicionar novos convidados ao banco de dados.
