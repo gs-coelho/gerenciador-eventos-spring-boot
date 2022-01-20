@@ -16,7 +16,11 @@ Em seguida, criei algumas views, controllers e modelos, utilizando algumas anota
 Por fim, criei uma classe DataConfiguration para configurar a conexão com o banco de dados. Nesse caso, utilizei um banco de dados diferente do tutorial: ao invés de adicionar ao pom.xml o conector do MySQL, adicionei o do MariaDB, já que era o banco de dados que já tinha instalado.
 
 ## Questionário 16/12/21
+Foram implementados os vídeos 4, 5 e 6.
+
 Aqui, criei o EventoRepository, e o utilizei para buscar uma lista de eventos. Também adicionei o Materialize CSS ao projeto, para facilitar a estilização. Apenas uma estilização muito básica foi feita, para testar a biblioteca.
 
 ## Questionário 06/01/22
+Foram implementados os vídeos 7, 8 e 9.
+
 Nesta aula, utilizei um pouco mais o Materialize CSS para adicionar estilo para as páginas. Criei também uma página para visualizar os detalhes do evento. Por fim, criei uma entidade Convidado, que se relaciona com o Evento. Criei um pequeno formulário para adicionar novos convidados ao banco de dados.
