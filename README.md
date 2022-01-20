@@ -24,3 +24,9 @@ Aqui, criei o EventoRepository, e o utilizei para buscar uma lista de eventos. T
 Foram implementados os vídeos 7, 8 e 9.
 
 Nesta aula, utilizei um pouco mais o Materialize CSS para adicionar estilo para as páginas. Criei também uma página para visualizar os detalhes do evento. Por fim, criei uma entidade Convidado, que se relaciona com o Evento. Criei um pequeno formulário para adicionar novos convidados ao banco de dados.
+
+## Questionário 13/01/22
+Foram implementados os vídeos 10, 11 e 12.
+
+Nesta aula, usei o ConvidadoRepository para salvar os convidados no banco de dados e buscar uma lista deles para ser exibida. Além disso, usei as anotações de validação para validar os campos dos objetos, exibindo mensagens de aviso através de um th:block do Thymeleaf. Para fazer isso, tive que adicionar a dependencia [spring-boot-starter-validation](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-validation), necessária para que a integração do framework com os validadores funcione.
+
