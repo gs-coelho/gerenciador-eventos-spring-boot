@@ -30,3 +30,7 @@ Foram implementados os vídeos 10, 11 e 12.
 
 Nesta aula, usei o ConvidadoRepository para salvar os convidados no banco de dados e buscar uma lista deles para ser exibida. Além disso, usei as anotações de validação para validar os campos dos objetos, exibindo mensagens de aviso através de um th:block do Thymeleaf. Para fazer isso, tive que adicionar a dependencia [spring-boot-starter-validation](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-validation), necessária para que a integração do framework com os validadores funcione.
 
+## Questionário 20/01/22
+Foram implementados os vídeos 13 e 14.
+
+Neste último questionário, melhorei ainda mais a estilização do sistema com o Materialize, além de permitir que os ecentos e convidados sejam removidos.
